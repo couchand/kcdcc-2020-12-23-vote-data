@@ -1743,29 +1743,29 @@ ad,ed,name,vote,source
 49,69,Kathryn Davidson,Candidate 1: Arleny Alvarado-McCalla,Default to Leaders
 49,70,Caroly Catalano,Candidate 1: Arleny Alvarado-McCalla,Default to Leaders
 49,70,Rocco Monferato,Candidate 1: Arleny Alvarado-McCalla,Default to Leaders
-49,1,Joe Bova,Candidate 1: Arleny Alvarado-McCalla,Live
-49,1,Tori Kelly,Candidate 1: Arleny Alvarado-McCalla,Live
+49,,Joe Bova,Candidate 1: Arleny Alvarado-McCalla,Live
+49,,Tori Kelly,Candidate 1: Arleny Alvarado-McCalla,Live
 50,1,Chaya Leimzider,Candidate 1: Arleny Alvarado-McCalla,Proxy
-50,2,Eliezer Leimzider,Candidate 1: Arleny Alvarado-McCalla,Proxy
-50,3,Eric Goldstein,Abstain,Default to Leaders
-50,3,Alexandra Chen,Abstain,Default to Leaders
+50,1,Eliezer Leimzider,Candidate 1: Arleny Alvarado-McCalla,Proxy
+50,1,Eric Goldstein,Abstain,Default to Leaders
+50,2,Alexandra Chen,Abstain,Default to Leaders
 50,3,Elizabeth E. Adams,Abstain,Default to Leaders
-50,4,Matthew Joseph Rubenstein,Abstain,Default to Leaders
-50,4,Thomas A. Hill,Abstain,Default to Leaders
-50,5,Grace B. Kline,Abstain,Default to Leaders
-50,5,William E. Frank,Abstain,Default to Leaders
+50,3,Matthew Joseph Rubenstein,Abstain,Default to Leaders
+50,3,Thomas A. Hill,Abstain,Default to Leaders
+50,4,Grace B. Kline,Abstain,Default to Leaders
+50,4,William E. Frank,Abstain,Default to Leaders
 50,5,Elana R. Ehrenberg,Abstain,Default to Leaders
-50,6,Nick Rizzo,Abstain,Default to Leaders
-50,6,Rachel N. Sturm,Abstain,Default to Leaders
-50,7,Cara Yeates,Abstain,Default to Leaders
-50,7,Elenore Anne Jackson,Abstain,Default to Leaders
+50,5,Nick Rizzo,Abstain,Default to Leaders
+50,5,Rachel N. Sturm,Abstain,Default to Leaders
+50,6,Cara Yeates,Abstain,Default to Leaders
+50,6,Elenore Anne Jackson,Abstain,Default to Leaders
 50,7,Danielle Zuckerman,Abstain,Default to Leaders
 50,7,Nicole L. Defeo,Abstain,Default to Leaders
-50,8,Stephen K. Chesler,Abstain,Default to Leaders
-50,8,Steven Andrew Wojda,Abstain,Default to Leaders
+50,7,Stephen K. Chesler,Abstain,Default to Leaders
+50,7,Steven Andrew Wojda,Abstain,Default to Leaders
 50,8,Andrew Yen,Abstain,Default to Leaders
-50,,Elizabeth Jackson,Abstain,Default to Leaders
-50,,Kaitlyn J. Creegan,Abstain,Default to Leaders
+50,8,Elizabeth Jackson,Abstain,Default to Leaders
+50,8,Kaitlyn J. Creegan,Abstain,Default to Leaders
 50,8,Rishi Malhotra,Abstain,Default to Leaders
 50,9,Curtis Vergara,Abstain,Default to Leaders
 50,10,Anna Poe-Kest,Abstain,Default to Leaders

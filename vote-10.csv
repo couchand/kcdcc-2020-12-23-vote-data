@@ -1743,11 +1743,11 @@ ad,ed,name,vote,source
 49,69,Kathryn Davidson,Candidate 1: Aaron D. Maslow,Default to Leaders
 49,70,Caroly Catalano,Candidate 1: Aaron D. Maslow,Default to Leaders
 49,70,Rocco Monferato,Candidate 1: Aaron D. Maslow,Default to Leaders
-49,1,Joe Bova,Candidate 1: Aaron D. Maslow,Live
-49,1,Tori Kelly,Candidate 1: Aaron D. Maslow,Live
+49,,Joe Bova,Candidate 1: Aaron D. Maslow,Live
+49,,Tori Kelly,Candidate 1: Aaron D. Maslow,Live
 50,1,Chaya Leimzider,Candidate 1: Aaron D. Maslow,Proxy
-50,,Eliezer Leimzider,Candidate 1: Aaron D. Maslow,Proxy
-50,,Eric Goldstein,Abstain,Default to Leaders
+50,1,Eliezer Leimzider,Candidate 1: Aaron D. Maslow,Proxy
+50,1,Eric Goldstein,Abstain,Default to Leaders
 50,2,Alexandra Chen,Abstain,Default to Leaders
 50,3,Elizabeth E. Adams,Abstain,Default to Leaders
 50,3,Matthew Joseph Rubenstein,Abstain,Default to Leaders
